@@ -1,2 +1,2 @@
 # BIB
-This REPO is for BIB activities documentation.
+This REPO is for Business in a box activities documentation.
